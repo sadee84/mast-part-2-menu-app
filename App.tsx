@@ -9,7 +9,7 @@
 import React, { useState } from 'react';
 import { SafeAreaView, View, Text, StyleSheet, FlatList, TextInput, TouchableHighlight, Image } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
-import { MenuItem } from './types'
+import { MenuItem } from './types';
 // Define the type for a menu item
 
 export default function MenuScreen() {
